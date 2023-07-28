@@ -1,0 +1,16 @@
+
+
+#footer {
+    display: flex;
+    justify-content: center; /* Center the icons horizontally */
+  }
+  
+  #footer .icons {
+    display: flex;
+    justify-content: center; /* Center the icons horizontally within the flex container */
+  }
+  
+  #footer .icons a {
+    margin: 0 5px; /* Add some spacing around the icons */
+  }
+  
